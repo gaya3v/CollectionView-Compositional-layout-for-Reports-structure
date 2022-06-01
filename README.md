@@ -1,4 +1,4 @@
-# Table-view-using-compositional-layout
+# Report-table-using-Collection-view-compositional-layout
 
 Table with multiple rows and columns and internal sectioning - achieved using collection view compositional layout.
 
