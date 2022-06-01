@@ -5,12 +5,16 @@ Table with multiple rows and columns and internal sectioning - achieved using co
 
 **STATEMENT:**
 
-The problem statement is to create a table with many sections which further branches into 'N' level of subsections and the last Nth subsection level has 'M' number of rows as given in the image. The headers (first row in the table guven) should remain static at top while scrolling vertically.
+The problem statement is to create a table with many sections which further branches into 'N' level of subsections and the last Nth subsection level has 'M' number of rows as given in the image. The headers (first row in the table given) should remain static at top while scrolling vertically.
 
 _Expected output table format:_
 
 <img width="655" alt="Screenshot 2022-06-01 at 3 39 47 PM" src="https://user-images.githubusercontent.com/48595252/171381615-80eb13ee-36af-4a75-8f9e-b7c480b21b7e.png">
 
+**OUTPUT:**
+
+
+https://user-images.githubusercontent.com/48595252/171376902-75c15f0c-f31a-438d-b7ad-ba511316444a.mp4
 
 **APPROACH:**
 
@@ -24,9 +28,4 @@ The table is made of non-uniform cells (width of cell is fixed: 180 and height o
 
  **(Refer: - func setupCompositionalLayout() and func setupHeaderLayout() methods in the file CustomCollectionViewController.swift)**
 
-
-Output:
-
-
-https://user-images.githubusercontent.com/48595252/171376902-75c15f0c-f31a-438d-b7ad-ba511316444a.mp4
 
