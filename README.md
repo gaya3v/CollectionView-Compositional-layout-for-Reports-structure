@@ -29,6 +29,10 @@ Scroll-related implementations:
 
 4. https://developer.apple.com/documentation/uikit/uiscrollviewdelegate
 
+Context menu display on long tap:
+
+5. https://developer.apple.com/documentation/uikit/uicollectionviewdelegate/3295917-collectionview
+
 _II. Other Blogs / articles:_
 
 1. https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
